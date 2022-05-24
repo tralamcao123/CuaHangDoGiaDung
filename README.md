@@ -1,6 +1,7 @@
 # Đây là một project về shop bán đồ gia dụng
 # Giao diện trang chủ
-![image](https://user-images.githubusercontent.com/74332711/169934177-db0226a3-66d9-4a4f-a708-55538512e243.png)
+![image](https://user-images.githubusercontent.com/74332711/169935254-14afbb22-f423-4bcf-9002-cba0b33903e3.png)
+
 # Các công nghệ sử dụng trong project:
 1. Asp.net core MVC
 2. EF Core
